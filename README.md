@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/c/SLAndroid"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL Android-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
+<p align="center">
+<a href="https://t.me/joinchat/AAAAAFHmxm72d-lboeaueg"><img title="Telegram Channel" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/MaJux1c8gdMW2GSqCpEBxQ"><img title="Telegram Group" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://www.facebook.com/groups/277920623081269/?ref=share"><img title="Facebook Group" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
+<a href="https://www.instagram.com/sl_android_official/><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
