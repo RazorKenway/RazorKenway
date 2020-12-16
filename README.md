@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=RazorKenway&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<p align="center">
+<a href="https://www.youtube.com/c/SLAndroid"><img title="YouTube" src="https://img.shields.io/badge/RazorKenway-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL Android-red?style=for-the-badge&logo=Youtube"></a>
+</p>
