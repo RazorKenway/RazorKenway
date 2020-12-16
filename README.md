@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/sl_android_official/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 
+<p align="center">
+<a href="https://github.com/RazorKenway/GalleryHack"><img title="GalleryHack" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=GalleryHack&theme=radical"></a>
+<a href="https://github.com/RazorKenway/Unlocker"><img title="Unlocker" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Unlocker&theme=highcontrast"></a>
+<a href="https://github.com/RazorKenway/EvilEye-Banner"><img title="EvilEye-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark"></a>
+<a href="https://github.com/RazorKenway/Hide-In-Picture"><img title="Hide-In-Picture" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Hide-In-Picture&theme=highcontrast"></a>
+</p>
