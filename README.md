@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/RazorKenway/EvilEye-Banner"><img title="EvilEye-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark"></a>
 <a href="https://github.com/RazorKenway/Hide-In-Picture"><img title="Hide-In-Picture" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Hide-In-Picture&theme=highcontrast"></a>
 </p>
+
+<p align="center">
+<a href="https://github.com/RazorKenway"><img title="SL Android" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorKenway&layout=compact"></a>
+</p>
