@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <a href="https://t.me/joinchat/MaJux1c8gdMW2GSqCpEBxQ"><img title="Telegram Group" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href="https://www.facebook.com/groups/277920623081269/?ref=share"><img title="Facebook Group" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
 <a href="https://www.facebook.com/SLAndroidD/"><img title="Facebook Page" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
-<a href="https://www.instagram.com/sl_android_official/><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.instagram.com/sl_android_official/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 
