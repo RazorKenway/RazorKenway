@@ -1,7 +1,7 @@
 ### Razor Kenway SL Android (Sri Lanka 🇱🇰 )👋
 
 <div align="center">
-<img align="centre" src="https://raw.githubusercontent.com/RazorKenway/RazorKenway/Developer.gif"/>
+<img align="centre" src="https://raw.githubusercontent.com/RazorKenway/RazorKenway/main/Developer.gif"/>
 </div>
 
 <p align="center">
