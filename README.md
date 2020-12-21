@@ -1,4 +1,7 @@
 ### Razor Kenway SL Android (Sri Lanka 🇱🇰 )👋
+<div align="center">
+<img align="centre" src="https://raw.githubusercontent.com/RqzorKenway/RqzorKenway/main/Developer.gif"/>
+</div>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RazorKenway&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
