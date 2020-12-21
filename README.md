@@ -28,6 +28,10 @@
 <p align="center">
 <a href="https://github.com/RazorKenway"><img title="SL Android" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorKenway&layout=compact"></a>
 </p>
+<p align="left">
+  <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
+  <br>
+</p>
 <div align="center">
 <a href="https://github.com/RazorKenway">
   <img align="left" alt="Razor's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
