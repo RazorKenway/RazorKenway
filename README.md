@@ -1,6 +1,7 @@
 ### Razor Kenway SL Android (Sri Lanka 🇱🇰 )👋
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RazorKenway&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center">
 <a href="https://github.com/RazorKenway"><img title="Git Hub" src="https://img.shields.io/badge/RazorKenway-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.youtube.com/c/SLAndroid"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL Android-red?style=for-the-badge&logo=Youtube"></a>
