@@ -27,8 +27,8 @@
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p align="center">
 <a href="https://github.com/RazorKenway"><img title="SL Android" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorKenway&layout=compact"></a>
-
-align="left">
+</p>
+<p align="left">
   <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
 
 </p>
