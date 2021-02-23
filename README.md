@@ -7,13 +7,7 @@
 <div align="center">
 </div>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-<p align="center">
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RazorKenway)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sl_android_official/)
-</p>
+
 <p align="center">
 	<a href="https://www.youtube.com/c/SLAndroid"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL Android-red?style=for-the-badge&logo=Youtube"></a>
 	<a href="https://t.me/joinchat/AAAAAFHmxm72d-lboeaueg"><img title="Telegram Channel" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
@@ -21,6 +15,13 @@ You can use the website to generate badges: https://shields.io/
 	<a href="https://www.facebook.com/groups/277920623081269/?ref=share"><img title="Facebook Group" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
 	<a href="https://www.facebook.com/SLAndroidD/"><img title="Facebook Page" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
 </p>
+
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RazorKenway)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sl_android_official/)
+
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
@@ -70,16 +71,16 @@ You can use the website to generate badges: https://shields.io/
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/RazorKenway/GalleryHack"><img title="GalleryHack" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=GalleryHack&theme=radical"></a>
 </p>
-<p align="right">
+<p align="center">
 <a href="https://github.com/RazorKenway/Unlocker"><img title="Unlocker" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Unlocker&theme=highcontrast"></a>
 </p>
-<p align="left">
+<p align="center">
 <a href="https://github.com/RazorKenway/EvilEye-Banner"><img title="EvilEye-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark"></a>
 </p>
-<p align="right">
+<p align="center">
 <a href="https://github.com/RazorKenway/Hide-In-Picture"><img title="Hide-In-Picture" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Hide-In-Picture&theme=highcontrast"></a>
 </p>
 
