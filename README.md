@@ -95,7 +95,7 @@ You can use the website to generate badges: https://shields.io/
   <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
 </p>
 
-<div align="center">
+<div align="right">
 <a href="https://github.com/RazorKenway">
   <img align="left" alt="Razor's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
