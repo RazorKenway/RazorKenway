@@ -10,9 +10,10 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
+<p align="center">
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RazorKenway)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sl_android_official/)
+</p>
 <p align="center">
 	<a href="https://www.youtube.com/c/SLAndroid"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SL Android-red?style=for-the-badge&logo=Youtube"></a>
 	<a href="https://t.me/joinchat/AAAAAFHmxm72d-lboeaueg"><img title="Telegram Channel" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
