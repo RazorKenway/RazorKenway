@@ -1,8 +1,9 @@
 ### Razor Kenway SL Android (Sri Lanka 🇱🇰 )👋 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ---
-<img src="https://github.com/RazorKenway/RazorKenway/blob/main/SL_Android.jpg" width="300%">
+
 <p align="center">
+<img src="https://github.com/RazorKenway/RazorKenway/blob/main/SL_Android.jpg" width="300%">
 <div align="center">
 </div>
 
