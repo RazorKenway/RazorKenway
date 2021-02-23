@@ -51,11 +51,11 @@ You can use the website to generate badges: https://shields.io/
 <p align ="right">
   <br />
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/Shell/Shell-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/Css/Css-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/Shell/shell-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/Css/css-ar21.svg"></code>
   <br />  
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/PHP/PHP-ar21.svg"></code>
+  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/PHP/php-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -87,7 +87,7 @@ You can use the website to generate badges: https://shields.io/
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<p align="right">
+<p align="center">
 <a href="https://github.com/RazorKenway"><img title="SL Android" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorKenway&layout=compact"></a>
 </p>
 
