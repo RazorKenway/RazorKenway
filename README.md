@@ -87,7 +87,7 @@ You can use the website to generate badges: https://shields.io/
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<p align="center">
+<p align="right">
 <a href="https://github.com/RazorKenway"><img title="SL Android" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorKenway&layout=compact"></a>
 </p>
 
