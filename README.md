@@ -1395,7 +1395,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for New programming methord;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm Still Student;
-- 📫 How to reach me: ;
+- 📫 How to reach me:service.slandro.official@gmail.com;
 
 <div align="right">
 <img align="right" src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif"/>
