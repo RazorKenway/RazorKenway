@@ -1,4 +1,4 @@
-### Razor Kenway SL Android (Sri Lanka 🇱🇰) 👋 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="24px" width="24px">
+### Razor Kenway SL Android (Sri Lanka 🇱🇰 )👋 &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="24px" width="24px">
 
 ---
 <p align="center">
@@ -68,6 +68,22 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br>
 </p>  
+
+<!--rule -->
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
+<p align="center">
+<a href="https://github.com/RazorKenway/GalleryHack"><img title="GalleryHack" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=GalleryHack&theme=radical"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RazorKenway/Unlocker"><img title="Unlocker" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Unlocker&theme=highcontrast"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RazorKenway/EvilEye-Banner"><img title="EvilEye-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RazorKenway/Hide-In-Picture"><img title="Hide-In-Picture" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Hide-In-Picture&theme=highcontrast"></a>
+</p>
 
 <!--rule -->
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
