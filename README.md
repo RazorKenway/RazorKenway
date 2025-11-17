@@ -114,8 +114,12 @@ _Digital Craftsman (Developer / Programmer)_
     </td>
   </tr>
   <tr>
-    
-  </tr>
+  <td colspan="2" align="center">
+      <h3><strong>📌 Advanced GitHub Metrics</strong></h3>
+      <img src="./metrics.svg" alt="GitHub Metrics" width="100%">
+  </td>
+</tr>
+
 </table>
 <br />
 
