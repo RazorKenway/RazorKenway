@@ -133,9 +133,6 @@ _Digital Craftsman (Developer / Programmer)_
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
 <!--Contact Section-->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
