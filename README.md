@@ -115,14 +115,8 @@ _Digital Craftsman (Developer / Programmer)_
   </tr>
   <tr>
     <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/RazorKenway">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=RazorKenway&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
+    <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
   </tr>
 </table>
 <br />
