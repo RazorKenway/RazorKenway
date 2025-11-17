@@ -19,9 +19,8 @@
   <h2>👨🏽‍💻 About Me</h2>
 </div>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%" align="left" valign="top" style="padding-right: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="width: 50%; text-align: left;">
 
 - 💻 **Razor Kenway** - Passionate Developer & Content Creator
 - 🌱 Currently Learning: Python, Shell, HTML, PHP, Java, JavaScript, CSS, C++
@@ -32,13 +31,11 @@
 - 🎓 Student Developer
 - 📧 **Email:** service.slandro.official@gmail.com
 
-      </td>
-      <td width="45%" align="center" valign="middle">
-        <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="60%" alt="Developer">
-      </td>
-
-    </tr>
-  </table>
+  </div>
+  <div style="width: 50%; text-align: center;">
+    <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="65%" alt="Developer">
+  </div>
+</div>
 
 ---
 
