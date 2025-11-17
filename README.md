@@ -50,7 +50,7 @@ _Digital Craftsman (Developer / Programmer)_
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
   
-<!-- <h3 align="left">Latest Blog Posts</h3>
+<h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
   <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
   <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
@@ -59,7 +59,7 @@ _Digital Craftsman (Developer / Programmer)_
 <br />
 <br />
 <br />
-<br /> -->
+<br />
 
 <!--Trophies Section-->
 <!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -105,20 +105,14 @@ _Digital Craftsman (Developer / Programmer)_
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <!-- <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/RazorKenway/Work-Pulse">
-  <img 
-    align="center"
-    width="470"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Work-Pulse&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
-    alt="Work-Pulse Repository"
-  />
-</a>
-
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Work-Pulse&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
       </p>
-    </td>
+    </td> -->
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
@@ -127,7 +121,6 @@ _Digital Craftsman (Developer / Programmer)_
         </a>
       </p>
     </td>
-
   </tr>
 </table>
 <br />
