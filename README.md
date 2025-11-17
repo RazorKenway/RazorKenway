@@ -33,7 +33,7 @@
 
   </div>
   <div style="width: 50%; text-align: center;">
-    <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="65%" alt="Developer">
+    <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="30%" alt="Developer">
   </div>
 </div>
 
