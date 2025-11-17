@@ -50,7 +50,7 @@ _Digital Craftsman (Developer / Programmer)_
   <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
   
-<h3 align="left">Latest Blog Posts</h3>
+<!-- <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
   <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
   <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
@@ -59,10 +59,10 @@ _Digital Craftsman (Developer / Programmer)_
 <br />
 <br />
 <br />
-<br />
+<br /> -->
 
 <!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/RazorKenway">
     <picture>
@@ -80,7 +80,7 @@ _Digital Craftsman (Developer / Programmer)_
     />
   </a>
 </p>
-<br />
+<br /> -->
 
 <!--Github stats Table-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -108,9 +108,15 @@ _Digital Craftsman (Developer / Programmer)_
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/RazorKenway/storyblok-mcp-server">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
+        <a href="https://github.com/RazorKenway/Work-Pulse">
+  <img 
+    align="center"
+    width="470"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Work-Pulse&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff"
+    alt="Work-Pulse Repository"
+  />
+</a>
+
       </p>
     </td>
     <td width="50%">
@@ -121,55 +127,50 @@ _Digital Craftsman (Developer / Programmer)_
         </a>
       </p>
     </td>
+
   </tr>
 </table>
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<!-- <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazorKenway&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
+</div> -->
 
 ---
 
 <!--Dynamic Quote card updates everyday at 12 PM-->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=There%20are%20no%20limitations%20to%20the%20mind%20except%20those%20we%20acknowledge...&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
 <!--Contact Section-->
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:service.slandro.official@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="service.slandro.official@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/kiran__a__n" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
-</a>
+<!-- <a href="https://x.com/the_bumzz____" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="the_bumzz____" style="margin-bottom: 5px;" />
+</a> -->
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/the_bumzz____" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="the_bumzz____" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.githubcom/RazorKenway" target="_blank">
 <img src="./github.png" width=50 height=50 alt="RazorKenway" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<a href="https://www.linkedin.com/in/bumindu-hettiarachchi" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
+<!-- <a href="https://dev.to/the_bumzz____" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="the_bumzz____" style="margin-bottom: 5px;" />
+</a> -->
 </div>
 <br/>
 
