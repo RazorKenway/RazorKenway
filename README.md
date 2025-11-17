@@ -2176,7 +2176,7 @@ _Digital Craftsman (Developer / Programmer)_
 <img src="./instagram.png" width=50 height=50 alt="the_bumzz____" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/RazorKenway" target="_blank">
+<a href="https://www.github.com/RazorKenway" target="_blank">
 <img src="./github.png" width=50 height=50 alt="RazorKenway" style="margin-bottom: 5px;" />
 </a>
 
