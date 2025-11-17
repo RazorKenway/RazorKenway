@@ -1,8 +1,8 @@
-### Razor Kenway SL Android (Sri Lanka 🇱🇰 ) 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="24px" width="24px">
-
-<p align="center">
-  <img src="https://github.com/RazorKenway/RazorKenway/blob/main/SL_Android.jpg" width="80%">
-</p>
+<div align="center">
+  <h1>👋 Razor Kenway - SL Android (Sri Lanka 🇱🇰) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="24px" width="24px"></h1>
+  
+  <img src="https://github.com/RazorKenway/RazorKenway/blob/main/SL_Android.jpg" width="80%" alt="SL Android">
+</div>
 
 <p align="center">
   <a href="https://www.youtube.com/c/SLAndroid">
@@ -33,97 +33,133 @@
 
 ---
 
-### 👨🏽‍💻 About Me
+<div align="center">
+  <h2>👨🏽‍💻 About Me</h2>
+</div>
 
-- 💻 I’m Razor Kenway  
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        
+- 💻 I'm Razor Kenway  
 - 🌱 Currently learning Python, Shell, HTML, PHP, Java, JS, CSS, C++  
 - 🤝 Looking to collaborate with [SL Android](https://t.me/SL_Android)  
 - 🎥 Check out my tutorials: [YouTube - SL Android](https://www.youtube.com/c/SLAndroid)  
 - 🧠 Always exploring new coding methods  
 - 💬 Ask me anything  
 - 🎓 Still a student  
-- 📧 Email: service.slandro.official@gmail.com  
+- 📧 Email: service.slandro.official@gmail.com
 
-<div align="right">
-  <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="250px" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="100%" alt="Developer">
+      </td>
+    </tr>
+
+  </table>
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=RazorKenway&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-</p>
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorKenway&layout=compact">
-</p>
-
----
-
-### 💻 Languages & Tools
-
-<p align="center">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
-</p>
-
----
-
-### 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/RazorKenway/GalleryHack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=GalleryHack&theme=radical">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RazorKenway/Unlocker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Unlocker&theme=highcontrast">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RazorKenway/EvilEye-Banner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RazorKenway/Hide-In-Picture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Hide-In-Picture&theme=highcontrast">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
-</p>
 
 <div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=RazorKenway&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats">
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorKenway&layout=compact" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h2>💻 Languages & Tools</h2>
+</div>
+
+<div align="center">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="CSS">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="PHP">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="JSON">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GitLab">
+</div>
+
+---
+
+<div align="center">
+  <h2>🔥 Featured Projects</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/RazorKenway/GalleryHack">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=GalleryHack&theme=radical" alt="GalleryHack">
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/RazorKenway/Unlocker">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Unlocker&theme=highcontrast" alt="Unlocker">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/RazorKenway/EvilEye-Banner">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark" alt="EvilEye-Banner">
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/RazorKenway/Hide-In-Picture">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Hide-In-Picture&theme=highcontrast" alt="Hide-In-Picture">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%" alt="Footer Decoration">
+</div>
+
+<div align="center">
+  <h2>Connect with Me</h2>
   <a href="https://github.com/RazorKenway">
-    <img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
+  &nbsp; &nbsp;
   <a href="https://t.me/Razor_Kenway">
-    <img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    <img alt="Telegram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
   </a>
+  &nbsp; &nbsp;
   <a href="https://www.instagram.com/sl_android_official/">
-    <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img alt="Instagram" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
+  &nbsp; &nbsp;
   <a href="https://www.facebook.com/groups/277920623081269/?ref=share">
-    <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+    <img alt="Facebook" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
 </div>
+
+<p align="center">
+  ⭐ If you find my work helpful, please consider giving it a star! ⭐
+</p>
