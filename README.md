@@ -37,7 +37,7 @@
   <h2>👨🏽‍💻 About Me</h2>
 </div>
 
-<table width="100%" border="0">
+<table border="0">
   <tr>
     <td width="75%" align="left" valign="top">
       
