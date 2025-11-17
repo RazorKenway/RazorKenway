@@ -37,7 +37,7 @@
   <h2>👨🏽‍💻 About Me</h2>
 </div>
 
-<table>
+<table width="100%" border="0">
   <tr>
     <td width="50%" align="left" valign="top">
       
@@ -51,8 +51,8 @@
 - 📧 Email: service.slandro.official@gmail.com
 
     </td>
-    <td width="50%" align="right" valign="center">
-      <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="90%" alt="Developer">
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="55%" alt="Developer">
     </td>
 
   </tr>
