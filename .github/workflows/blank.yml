@@ -1,0 +1,58 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Manual run
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Metrics SVG
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }} # PAT required
+
+          # Basic settings
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          # Plugins
+          plugin_isocalendar: yes # Year activity calendar
+          plugin_isocalendar_duration: full
+
+          plugin_languages: yes # Language stats
+          plugin_languages_limit: 12
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+
+          plugin_followup: yes # Issue/PR follow-up
+          plugin_followup_indepth: yes
+
+          plugin_stars: yes # Stars from repos
+          plugin_stars_limit: 100
+
+          plugin_reactions: yes # Reaction summary
+          plugin_reactions_limit: 200
+
+          plugin_habits: yes # Coding habits
+          plugin_habits_from: 200 # Days checked
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+
+          plugin_activity: yes # Recent activity
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+
+          plugin_calendar: yes # GitHub calendar
+          plugin_calendar_limit: 1
+
+          plugin_streak: yes # Commit streak
+          plugin_streak_days: 30
+
+          plugin_projects: yes # Public projects
+
+          filename: metrics.svg # Output file
