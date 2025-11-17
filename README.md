@@ -1,26 +1,21 @@
-<div align="center">
-  <h1>👋 Razor Kenway - SL Android <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height="24px" width="24px"></h1>
-  <h3>Sri Lanka 🇱🇰 | Developer | Content Creator</h3>
-  <img src="https://github.com/RazorKenway/RazorKenway/blob/main/SL_Android.jpg" width="85%" alt="SL Android" style="border-radius: 10px;">
-  <br><br>
-  <a href="https://www.youtube.com/c/SLAndroid"><img src="https://img.shields.io/badge/YouTube-SL Android-red?style=for-the-badge&logo=YouTube"></a>
-  <a href="https://t.me/joinchat/AAAAAFHmxm72d-lboeaueg"><img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=Telegram"></a>
-  <a href="https://t.me/joinchat/MaJux1c8gdMW2GSqCpEBxQ"><img src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=Telegram"></a>
-  <a href="https://www.facebook.com/groups/277920623081269/?ref=share"><img src="https://img.shields.io/badge/Facebook-Group-1877F2?style=for-the-badge&logo=Facebook"></a>
-  <a href="https://www.facebook.com/SLAndroidD/"><img src="https://img.shields.io/badge/Facebook-Page-black?style=for-the-badge&logo=Facebook"></a>
-  <br>
-  <a href="https://github.com/RazorKenway"><img src="https://img.shields.io/badge/GitHub-RazorKenway-000?style=flat&logo=GitHub"></a>
-  <a href="https://www.instagram.com/sl_android_official/"><img src="https://img.shields.io/badge/Instagram-sl_android_official-c13584?style=flat&logo=Instagram"></a>
+<!--Banner-->
+
+![RazorKenway Banner Image](./banner.jpg)
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
----
+<!--Header Name-->
 
-<div align="center">
-  <h2>👨🏽‍💻 About Me</h2>
-</div>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Razor Kenway!
 
-<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 30px; align-items: start;">
-  <div style="text-align: left;">
+_Digital Craftsman (Developer / Programmer)_
+<br />
+
+<!--Start Intro-->
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, PHP, React.js, Node.js, Express.js, Django, RDBMS, REST API. </p>
 
 - 💻 **Razor Kenway** - Passionate Developer & Content Creator
 - 🌱 Currently Learning: Python, Shell, HTML, PHP, Java, JavaScript, CSS, C++
@@ -30,92 +25,160 @@
 - 💬 Open to Questions & Suggestions
 - 🎓 Student Developer
 - 📧 **Email:** service.slandro.official@gmail.com
+<!--End Intro-->
 
-  </div>
-  <div style="text-align: center; display: flex; align-items: center; justify-content: center; height: 100%;">
-    <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="30%" alt="Developer">
-  </div>
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RazorKenway&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="RazorKenway" style="padding-right:20px;" />
+</p>
+
+---
+
+<!--Languages and Tools Section-->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
+  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
+  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+
+<!--Trophies Section-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/RazorKenway">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RazorKenway&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RazorKenway&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RazorKenway&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/RazorKenway/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
+
+<!--Github stats Table-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/RazorKenway">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazorKenway&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/RazorKenway">
+          <img align="center" src="https://streak-stats.demolab.com?user=RazorKenway&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/RazorKenway/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/RazorKenway">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=RazorKenway&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazorKenway&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
 
+<!--Dynamic Quote card updates everyday at 12 PM-->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=There%20are%20no%20limitations%20to%20the%20mind%20except%20those%20we%20acknowledge...&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!--Contact Section-->
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  <h2>📊 GitHub Statistics</h2>
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=RazorKenway&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats">
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorKenway&layout=compact" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
+  
+<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/kiran__a__n" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/RazorKenway" target="_blank">
+<img src="./github.png" width=50 height=50 alt="RazorKenway" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://dev.to/dev_kiran" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/RazorKenway" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
----
-
-<div align="center">
-  <h2>💻 Tech Stack & Tools</h2>
-  <img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Bash">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="CSS">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" alt="PHP">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="JSON">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub">
-  <img width="8%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GitLab">
-</div>
-
----
-
-<div align="center">
-  <h2>🔥 Featured Projects</h2>
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/RazorKenway/GalleryHack">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=GalleryHack&theme=radical" alt="GalleryHack">
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/RazorKenway/Unlocker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Unlocker&theme=highcontrast" alt="Unlocker">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/RazorKenway/EvilEye-Banner">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=EvilEye-Banner&theme=vision-friendly-dark" alt="EvilEye-Banner">
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/RazorKenway/Hide-In-Picture">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RazorKenway&repo=Hide-In-Picture&theme=highcontrast" alt="Hide-In-Picture">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="25%" alt="Footer Decoration">
-  <h2>🌐 Connect with Me</h2>
-  <p>
-    <a href="https://github.com/RazorKenway"><img alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-    &nbsp;&nbsp;
-    <a href="https://t.me/Razor_Kenway"><img alt="Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/sl_android_official/"><img alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-    &nbsp;&nbsp;
-    <a href="https://www.facebook.com/groups/277920623081269/?ref=share"><img alt="Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-  </p>
-  <h3>⭐ If you find my work helpful, please consider giving it a star! ⭐</h3>
-</div>
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
