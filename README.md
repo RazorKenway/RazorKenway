@@ -114,9 +114,7 @@ _Digital Craftsman (Developer / Programmer)_
     </td>
   </tr>
   <tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-    <td  align="center">
-        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+    
   </tr>
 </table>
 <br />
