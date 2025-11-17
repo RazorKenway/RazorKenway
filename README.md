@@ -37,11 +37,10 @@
   <h2>👨🏽‍💻 About Me</h2>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        
+<table>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      
 - 💻 I'm Razor Kenway  
 - 🌱 Currently learning Python, Shell, HTML, PHP, Java, JS, CSS, C++  
 - 🤝 Looking to collaborate with [SL Android](https://t.me/SL_Android)  
@@ -51,14 +50,13 @@
 - 🎓 Still a student  
 - 📧 Email: service.slandro.official@gmail.com
 
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="100%" alt="Developer">
-      </td>
-    </tr>
+    </td>
+    <td width="50%" align="right" valign="center">
+      <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="90%" alt="Developer">
+    </td>
 
-  </table>
-</div>
+  </tr>
+</table>
 
 ---
 
