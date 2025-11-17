@@ -19,8 +19,8 @@
   <h2>👨🏽‍💻 About Me</h2>
 </div>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
-  <div style="width: 75%; text-align: left;">
+<div style="display: grid; grid-template-columns: 3fr 1fr; gap: 30px; align-items: start;">
+  <div style="text-align: left;">
 
 - 💻 **Razor Kenway** - Passionate Developer & Content Creator
 - 🌱 Currently Learning: Python, Shell, HTML, PHP, Java, JavaScript, CSS, C++
@@ -32,8 +32,8 @@
 - 📧 **Email:** service.slandro.official@gmail.com
 
   </div>
-  <div style="width: 25%; text-align: center; display: flex; align-items: center; justify-content: center;">
-    <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="30%" alt="Developer">
+  <div style="text-align: center; display: flex; align-items: center; justify-content: center; height: 100%;">
+    <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="95%" alt="Developer">
   </div>
 </div>
 
