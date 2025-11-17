@@ -39,7 +39,7 @@
 
 <table width="100%" border="0">
   <tr>
-    <td width="50%" align="left" valign="top">
+    <td width="75%" align="left" valign="top">
       
 - 💻 I'm Razor Kenway  
 - 🌱 Currently learning Python, Shell, HTML, PHP, Java, JS, CSS, C++  
@@ -51,7 +51,7 @@
 - 📧 Email: service.slandro.official@gmail.com
 
     </td>
-    <td width="50%" align="center" valign="middle">
+    <td width="25%" align="center" valign="middle">
       <img src="https://github.com/RazorKenway/RazorKenway/blob/main/Developer.gif" width="55%" alt="Developer">
     </td>
 
